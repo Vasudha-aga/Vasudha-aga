@@ -58,35 +58,42 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+# 💻 Tech Stack:
 
-### 🤖 AI / ML
+### 👩‍💻 Languages
+![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![LaTeX](https://img.shields.io/badge/LaTeX-111827?style=for-the-badge&logo=latex&logoColor=00BFA6)
+
+### 🤖 AI / ML / Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge&logo=opencv&logoColor=00FFFF)
-![NLP](https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=ai&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=A855F7)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly&logoColor=FF4D6D)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-### 🌐 Web / App Development
-![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=DD0031)
+### 🌐 Web / Backend Development
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![JWT](https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=FF00FF)
 
-### 🗄️ Databases & Tools
+### ☁️ Deployment / Hosting
+![Render](https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+
+### 🗄️ Database / Tools / Design
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Power BI](https://img.shields.io/badge/Power_BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Canva](https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ---
 
@@ -180,7 +187,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect with me on Socials:
 
 <p align="left">
   <a href="https://github.com/Vasudha-aga" target="_blank">
@@ -189,11 +196,17 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/vasudha-agarwal-362ba228b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
   <a href="mailto:vasudhagarwal10618@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://vasudhaagarwal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_isha.27_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </p>
 
