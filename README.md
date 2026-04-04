@@ -35,12 +35,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Currently Working On
-
-- 🏥 **HealthFusion AI** — AI-driven multimodal medical diagnostic assistant  
-- 🛡️ **ArmedGuard AI** — Real-time threat / weapon detection system  
-- 💰 **Smart Expense** — ML-powered expense prediction and finance tracker  
+## 🚀 Currently Working On 
 - 📚 Strengthening **Data Structures & Algorithms** through regular problem solving
+  <a href="https://leetcode.com/u/Vasudha_aga/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=orange" />
+  </a>
 
 ---
 
@@ -90,17 +89,40 @@ Here are some ideas to get you started:
 
 ## 🌟 Featured Projects
 
-### 🏥 HealthFusion AI
-**AI-driven multimodal medical diagnostic assistant** that analyzes medical inputs for disease prediction using deep learning and advanced data fusion techniques.
+## 🚀 Featured Work
 
-### 🛡️ ArmedGuard AI
-A **real-time weapon detection and threat classification system** built using dual YOLOv8 models with improved precision and reduced false positives.
+### 🏥 AI & Healthcare
+- 🧠 **HealthFusion AI**  
+  AI-driven multimodal medical diagnostic assistant using deep learning and data fusion for disease prediction.
 
-### 💰 Smart Expense
-An **ML-powered personal finance tracker** that categorizes expenses, predicts future spending, and provides secure dashboards.
+---
 
-### 🌾 Sanchi
-An **AI-powered farming assistant** designed to support agriculture-focused intelligent solutions.
+### 🛡️ Computer Vision & Security
+- 🎯 **ArmedGuard AI (Intruder Detection System)**  
+  Real-time weapon detection using dual YOLOv8 models (96.4% accuracy) with threat classification and web dashboard. Reduced false positives by 68%.
+
+---
+
+### 💰 Machine Learning Applications
+- 📊 **Smart Expense**  
+  ML-powered personal finance tracker with automatic expense categorization, spending prediction, and secure dashboards.
+
+---
+
+### 🌾 AI for Social Good
+- 🌱 **Sanchi (AI Farming Assistant)**  
+  Intelligent agriculture assistant designed to help with farming insights and smart recommendations.
+
+---
+
+### 🌐 Web & Full Stack Projects
+- 💻 **AI Student Assistance Chatbot**  
+  NLP-based chatbot built with FastAPI to answer queries related to education, admissions, and student support.
+
+
+---
+
+✨ *All projects focus on building real-world, impactful, and scalable solutions using AI/ML and modern technologies.*
 
 ---
 
