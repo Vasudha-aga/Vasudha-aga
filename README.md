@@ -159,14 +159,18 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=radical" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=Vasudha-aga&theme=radical&hide_border=true" width="47%" />
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudha-aga&layout=compact&theme=radical&hide_border=true" width="38%" />
+</p>
 ---
 
 ## 🏆 Achievements
