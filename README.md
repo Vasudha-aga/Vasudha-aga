@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 <h3 align="center">B.Tech CSE (Data Science) Student | AI/ML Enthusiast | Building Real-World Intelligent Systems 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasudha-aga&label=Profile%20Views&color=6EE7F9&style=flat" alt="Vasudha-aga" />
+  <img src="https://komarev.com/ghpvc/?username=Vasudha-aga&label=Profile%20Views&color=FF4DB8&style=flat" alt="Vasudha-aga" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=FF99D6&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=FF4DB8&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
+</p>
 
 ## 🌸 About Me
 
