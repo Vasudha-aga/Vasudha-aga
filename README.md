@@ -18,20 +18,26 @@ Here are some ideas to get you started:
 <h3 align="center">B.Tech CSE (Data Science) Student | AI/ML Enthusiast | Building Real-World Intelligent Systems 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7CF2B1&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
+  <img src="https://komarev.com/ghpvc/?username=Vasudha-aga&label=Profile%20Views&color=6EE7F9&style=flat" alt="Vasudha-aga" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6EE7F9&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎓 I'm pursuing **B.Tech in Computer Science & Engineering (Data Science)** at **Manipal University Jaipur**
-- 🤖 I love building **AI-powered applications** that solve real-world problems
-- 🧠 Interested in **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**
-- 💻 I enjoy turning ideas into **functional web-based intelligent systems**
-- 📈 Currently improving my **DSA, development, and model deployment** skills
-- 🌱 Exploring **LLMs, advanced deep learning, and full-stack AI integration**
-- ✨ I believe tech should be **smart, useful, and impactful**
+
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (Data Science)** at **Manipal University Jaipur**  
+- 🤖 Passionate about building **AI-powered applications** that solve real-world problems  
+- 🧠 Interested in **Machine Learning, Deep Learning, Computer Vision, NLP & Generative AI**  
+- 💻 Enjoy turning ideas into **intelligent, web-based systems**  
+- 📈 Actively improving **DSA, development, and model deployment skills**  
+- 🌱 Exploring **LLMs, advanced deep learning & full-stack AI integration**  
+- ✨ I believe technology should be **smart, practical, and impactful**
+- 💡 *Focused on building real-world solutions through AI and continuously growing as a developer.*
 
 ---
 
@@ -92,7 +98,9 @@ Here are some ideas to get you started:
 
 ### 🏥 AI & Healthcare
 - 🧠 **HealthFusion AI**  
-  AI-driven multimodal medical diagnostic assistant using deep learning and data fusion for disease prediction.
+  AI-driven multimodal medical diagnostic assistant using deep learning and multimodal data fusion for disease prediction.  
+  📄 **Research contribution:** A paper based on this project was **accepted at an international conference** under the title:  
+  *“A Multimodal Deep Learning Framework for Breast Cancer Detection Using Mammogram Images and Clinical Text Data”*
 
 ---
 
@@ -154,18 +162,17 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasudha-aga&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudha-aga&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-
+- 📄 Research paper accepted at an international conference based on **HealthFusion AI**
 - 🎖️ Dean’s List Excellence in Academics
 - 📘 NPTEL Certified in **DBMS**
 - ☕ NPTEL Certified in **Programming in Java**
