@@ -212,8 +212,10 @@ Here are some ideas to get you started:
 </p>
 
 ---
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 <p align="center">
   ✨ Thanks for visiting my profile ✨ <br>
   <b>Let's build something meaningful with tech 💚</b>
