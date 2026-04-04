@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">B.Tech CSE (Data Science) Student | AI/ML Enthusiast | Building Real-World Intelligent Systems 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vasudha-aga&label=Profile%20Views&color=FF4DB8&style=flat" alt="Vasudha-aga" />
+  <img src="https://komarev.com/ghpvc/?username=Vasudha-aga&label=Profile%20Views&color=FF4DB8&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=FF99D6&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=FF4DB8&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=FF4DB8&center=true&vCenter=true&width=850&height=60&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+✨" />
 </p>
 
 ## 🌸 About Me
@@ -164,11 +160,11 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=radical" />
 </p>
 
 ---
