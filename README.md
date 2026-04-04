@@ -174,6 +174,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=radical" />
 </p>
+
 ---
 
 ## 🏆 Achievements
@@ -211,6 +212,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   ✨ Thanks for visiting my profile ✨ <br>
