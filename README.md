@@ -111,7 +111,10 @@ Here are some ideas to get you started:
 
 ### 🛡️ Computer Vision & Security
 - 🎯 **ArmedGuard AI (Intruder Detection System)**  
-  Real-time weapon detection using dual YOLOv8 models (96.4% accuracy) with threat classification and web dashboard. Reduced false positives by 68%.
+  Real-time weapon detection using dual YOLOv8 models with threat classification and a web dashboard.
+
+- 🔐 **CodeGuard AI**  
+  AI-powered intelligent code review and vulnerability analysis system designed to detect code issues, improve software quality, and support secure development workflows.
 
 ---
 
@@ -121,16 +124,22 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌾 AI for Social Good
-- 🌱 **Sanchi (AI Farming Assistant)**  
-  Intelligent agriculture assistant designed to help with farming insights and smart recommendations.
+### 🌐 Web & Full Stack Projects
+- 💻 **AI Student Assistance Chatbot**  
+  NLP-based chatbot built to answer student-related academic and admission queries through an intelligent conversational interface.
+
+- 🐞 **Bug Tracking System**  
+  Software project management system designed to report, track, and manage bugs efficiently with structured issue workflows and user-friendly dashboards.
 
 ---
 
-### 🌐 Web & Full Stack Projects
-- 💻 **AI Student Assistance Chatbot**  
-  NLP-based chatbot built with FastAPI to answer queries related to education, admissions, and student support.
+### 🌾 AI for Social Good
+- 🌱 **Sanchi (AI Farming Assistant)**  
+  Intelligent agriculture assistant built to support smart farming and user-focused AI recommendations.
 
+---
+
+✨ *Focused on building practical, impactful, and intelligent solutions across AI, software systems, and real-world applications.*
 
 ---
 
