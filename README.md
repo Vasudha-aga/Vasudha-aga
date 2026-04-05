@@ -99,8 +99,6 @@ Here are some ideas to get you started:
 
 ## 🌟 Featured Projects
 
-## 🚀 Featured Work
-
 ### 🏥 AI & Healthcare
 - 🧠 **HealthFusion AI**  
   AI-driven multimodal medical diagnostic assistant using deep learning and multimodal data fusion for disease prediction.  
@@ -140,10 +138,6 @@ Here are some ideas to get you started:
 ---
 
 ✨ *Focused on building practical, impactful, and intelligent solutions across AI, software systems, and real-world applications.*
-
----
-
-✨ *All projects focus on building real-world, impactful, and scalable solutions using AI/ML and modern technologies.*
 
 ---
 
