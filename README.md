@@ -173,7 +173,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vasudha-aga&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Vasudha-aga&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
 </p>
 
 ---
