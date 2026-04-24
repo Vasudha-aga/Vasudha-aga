@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 ### 🏥 AI & Healthcare
 - 🧠 **HealthFusion AI**  
   AI-driven multimodal medical diagnostic assistant using deep learning and multimodal data fusion for disease prediction.  
-  📄 **Research contribution:** A paper based on this project was **accepted at an international conference** under the title:  
+  📄 **Research contribution:** A paper based on this project was **accepted at 8th International Conference on Smart Computing and Informatics on April 03 , 2026** under the title:  
   *“A Multimodal Deep Learning Framework for Breast Cancer Detection Using Mammogram Images and Clinical Text Data”*
 
 ---
