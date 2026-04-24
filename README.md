@@ -27,15 +27,9 @@ Here are some ideas to get you started:
 
 ## 🌸 About Me
 
+B.Tech Data Science student at MUJ '27 with a published conference paper on multimodal breast cancer detection — building production-ready AI systems across computer vision, NLP, and full-stack deployment.
 
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering (Data Science)** at **Manipal University Jaipur**  
-- 🤖 Passionate about building **AI-powered applications** that solve real-world problems  
-- 🧠 Interested in **Machine Learning, Deep Learning, Computer Vision, NLP & Generative AI**  
-- 💻 Enjoy turning ideas into **intelligent, web-based systems**  
-- 📈 Actively improving **DSA, development, and model deployment skills**  
-- 🌱 Exploring **LLMs, advanced deep learning & full-stack AI integration**  
-- ✨ I believe technology should be **smart, practical, and impactful**
-- 💡 *Focused on building real-world solutions through AI and continuously growing as a developer.*
+
 
 ---
 
@@ -44,15 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
 
----
 
-## 🤝 Looking to Collaborate On
-
-- AI/ML Projects
-- Computer Vision Applications
-- Healthcare AI
-- Intelligent Web Applications
-- Beginner-friendly Open Source Contributions
 
 ---
 
@@ -146,22 +132,8 @@ Here are some ideas to get you started:
 - ⚙️ Model Deployment & Production AI
 - 📊 Better DSA for placements and competitive coding
 
----
 
-## 💬 Ask Me About
 
-- Python
-- AI / ML Projects
-- Computer Vision
-- Beginner-Friendly GitHub Projects
-- Data Science Student Journey
-- Building Project Portfolios
-
----
-
-## ⚡ Fun Fact
-
-> I love building projects that are not just “for marks” but actually feel like **real products** 🚀
 
 ---
 
@@ -179,8 +151,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🏆 Achievements
-- 📄 Research paper accepted at an international conference based on **HealthFusion AI**
-- 🎖️ Dean’s List Excellence in Academics
+- 📄 Research paper accepted at 8th International Conference on Smart Computing and Informatics based on **HealthFusion AI**
+- 🎖️ 2xDean’s List Excellence in Academics for scoring 9.12 in 3rd semester and 9.14 in 5th semester
 - 📘 NPTEL Certified in **DBMS**
 - ☕ NPTEL Certified in **Programming in Java**
 - 💻 NPTEL Certified in **Operating Systems**
@@ -213,11 +185,4 @@ Here are some ideas to get you started:
 </p>
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<p align="center">
-  ✨ Thanks for visiting my profile ✨ <br>
-  <b>Let's build something meaningful with tech 💚</b>
-</p>
