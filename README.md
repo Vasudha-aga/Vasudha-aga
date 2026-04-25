@@ -174,9 +174,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
   <a href="https://vasudhaagarwal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_isha.27_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-  </a>
 </p>
 
 ---
