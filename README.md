@@ -159,9 +159,9 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 ## 🌐 Connect with me on Socials:
 
 <p align="left">
-  <a href="https://github.com/Vasudha-aga" target="_blank">
+  <!-- <a href="https://github.com/Vasudha-aga" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/vasudha-agarwal-362ba228b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
@@ -171,9 +171,9 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
   <a href="mailto:vasudhagarwal10618@gmail.com">
     <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://vasudhaagarwal.netlify.app/" target="_blank">
+  <!-- <a href="https://vasudhaagarwal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
