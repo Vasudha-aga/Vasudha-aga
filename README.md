@@ -34,7 +34,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 ---
 
 ## Currently Working On 
-- 📚 Strengthening **Data Structures & Algorithms** through regular problem solving <a href="https://leetcode.com/u/Vasudha_aga/" target="_blank">
+-  Strengthening **Data Structures & Algorithms** through regular problem solving <a href="https://leetcode.com/u/Vasudha_aga/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
 
