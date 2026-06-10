@@ -133,7 +133,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 -  Better DSA for placements and competitive coding
 
 ---
-
+-->
 ##  GitHub Stats
 
 <p align="center">
@@ -141,7 +141,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 </p>
 
 ---
-
+<!--
 ##  Achievements
 -  Research paper accepted at 8th International Conference on Smart Computing and Informatics based on **HealthFusion AI**
 -  2xDean’s List Excellence in Academics for scoring 9.12 in 3rd semester and 9.14 in 5th semester
