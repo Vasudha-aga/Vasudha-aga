@@ -136,7 +136,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 -->
 ##  GitHub Stats
 
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vasudha-aga&theme=radical&hide_border=true" width="48%" />
 </p>
 
