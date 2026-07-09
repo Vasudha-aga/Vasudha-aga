@@ -216,7 +216,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" width="340"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif"  width="420"/>
 
 </td>
 
