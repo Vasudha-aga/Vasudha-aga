@@ -25,9 +25,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=FF4DB8&center=true&vCenter=true&width=850&height=60&lines=AI%2FML+Developer;Computer+Vision+Explorer;Data+Science+Student;Building+Projects+that+Actually+Matter+" />
 </p>
 
-## About Me
+<!--## About Me
 
-B.Tech Data Science student at MUJ '27 with a published conference paper on multimodal breast cancer detection — building production-ready AI systems across computer vision, NLP, and full-stack deployment.
+B.Tech Data Science student at MUJ '27 with a published conference paper on multimodal breast cancer detection — building production-ready AI systems across computer vision, NLP, and full-stack deployment.-->
 
 
 
@@ -161,6 +161,48 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 ---
 -->
+## Tech Stack
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&theme=dark"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark"/>
+</p>
+
+### Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark"/>
+</p>
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+---
 ##  Connect with me on Socials:
 
 <p align="left">
