@@ -159,33 +159,24 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 -  Certified in **Deep Learning with TensorFlow**
 -  Completed **Generative AI Specialization**
 -->
----
-## Tech Stack
 
+---
 <table>
 <tr>
 
 <td width="65%" valign="top">
 
-### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql&theme=dark"/>
 </p>
-
-### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
 </p>
 
-### Web Development
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark"/>
 </p>
-
-### Tools & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&theme=dark"/>
@@ -202,7 +193,8 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 </tr>
 </table>
 ---
-##  Connect with me on Socials:
+
+##Connect with me on Socials:
 
 <p align="left">
   <!-- <a href="https://github.com/Vasudha-aga" target="_blank">
