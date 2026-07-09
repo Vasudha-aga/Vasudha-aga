@@ -134,7 +134,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 ---
 -->
-##  GitHub Stats
+<!--##  GitHub Stats-->
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="170"/>
@@ -146,7 +146,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
   <img width="60%" src="https://streak-stats.demolab.com?user=Vasudha-aga&theme=radical&hide_border=true"/>
 </p>
 
----
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vasudha-aga/Vasudha-aga/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
@@ -161,7 +160,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 -  Completed **Generative AI Specialization**
 -->
 
----
 <table width="100%">
 <tr>
 
