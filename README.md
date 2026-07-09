@@ -135,8 +135,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 ---
 -->
 ##  GitHub Stats
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     width="49%"
