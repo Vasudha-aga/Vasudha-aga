@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: Vasudha-aga
           outputs: |
-            dist/github-snake.svg?color_snake=ff4db8&color_dots=#1f1f2e,#2d2d44,#ff9fd5,#ff4db8,#ff1e90
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=ff4db8&color_dots=#161b22,#22272e,#ff9fd5,#ff4db8,#ff1e90
+            dist/github-snake.svg?color_snake=ff1744&color_dots=#ffd6ec,#ffb3da,#ff80c4,#ff4da6,#ff1f8f
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=ff1744&color_dots=#ffd6ec,#ffb3da,#ff80c4,#ff4da6,#ff1f8f
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
