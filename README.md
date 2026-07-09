@@ -190,7 +190,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <td width="40%" align="center" valign="top">
 
-<h3>🌐 Connect With Me</h3>
+<h3> Connect With Me</h3>
 
 <p align="center">
 
@@ -214,7 +214,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="420"/>
+<img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="520"/>
 
 </td>
 
