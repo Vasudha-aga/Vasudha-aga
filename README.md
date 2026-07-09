@@ -135,7 +135,19 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 ---
 -->
 ##  GitHub Stats
+## 📊 GitHub Stats
 
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Vasudha-aga&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+  />
+
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasudha-aga&layout=compact&theme=radical&hide_border=true"
+  />
+</p>
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vasudha-aga&theme=radical&hide_border=true" width="48%" />
 </p>
