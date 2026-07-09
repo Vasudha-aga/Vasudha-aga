@@ -190,7 +190,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <td width="40%" align="center" valign="top">
 
-<h3> Connect With Me</h3>
+## <h3> Connect With Me</h3>
 
 <p align="center">
 
@@ -204,10 +204,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <a href="https://leetcode.com/u/Vasudha_aga/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vasudha-aga">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
