@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,14 +11,15 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: Vasudha-aga
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=ff4db8&color_dots=#1f1f2e,#2d2d44,#ff9fd5,#ff4db8,#ff1e90
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=ff4db8&color_dots=#161b22,#22272e,#ff9fd5,#ff4db8,#ff1e90
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
