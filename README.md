@@ -158,9 +158,8 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 -  NPTEL Certified in **Operating Systems**
 -  Certified in **Deep Learning with TensorFlow**
 -  Completed **Generative AI Specialization**
-
----
 -->
+---
 ## Tech Stack
 
 <table>
