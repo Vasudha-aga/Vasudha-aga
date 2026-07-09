@@ -221,14 +221,13 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 </tr>
 </table>
 
----
-## Connect with me on Socials:
+<!--## Connect with me on Socials:
 
 <p align="left">
   <!-- <a href="https://github.com/Vasudha-aga" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a> -->
-  <a href="https://www.linkedin.com/in/vasudha-agarwal-362ba228b/" target="_blank">
+ <!-- <a href="https://www.linkedin.com/in/vasudha-agarwal-362ba228b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://leetcode.com/" target="_blank">
@@ -239,8 +238,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
   </a>
   <!-- <a href="https://vasudhaagarwal.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a> -->
-</p>
-
----
+  </a> 
+</p> -->
 
