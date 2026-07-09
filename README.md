@@ -202,8 +202,6 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
 <a href="https://leetcode.com/u/Vasudha_aga/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
@@ -216,7 +214,7 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif"  width="420"/>
+<img src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" width="420"/>
 
 </td>
 
