@@ -146,6 +146,9 @@ B.Tech Data Science student at MUJ '27 with a published conference paper on mult
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vasudha-aga/Vasudha-aga/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 <!--
 ##  Achievements
 -  Research paper accepted at 8th International Conference on Smart Computing and Informatics based on **HealthFusion AI**
